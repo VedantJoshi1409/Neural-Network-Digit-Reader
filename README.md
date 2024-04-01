@@ -1,5 +1,5 @@
 # Neural-Network-Digit-Reader
-A neural network trained to recognize digits, trained on the MNIST dataset. Does not use TensorFlow or PyTorch
+A neural network trained to recognize digits, trained on the MNIST dataset. Using only Numpy, no TensorFlow or PyTorch
 
 You can test your own 28x28 hand-drawn digit by putting it in the ImageDropbox folder and calling the predictImg function
 
